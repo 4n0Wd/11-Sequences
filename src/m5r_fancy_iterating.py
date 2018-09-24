@@ -12,11 +12,11 @@ is different from:
   -- LOOKING only at items AT even-numbered indices.
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and Hanyu Yang.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 # ----------------------------------------------------------------------
-# TODO: 2. READ the program below and RUN it.
+# DONE: 2. READ the program below and RUN it.
 #
 #   When you have read it, asking questions as needed,
 #   and you feel that you understand:
@@ -74,6 +74,7 @@ def sum_string_lengths(sequence, m, n):
       :type m: int
       :type n: int
     """
+
     # ------------------------------------------------------------------
     # EXAMPLE 1.  Iterates through PART of a sequence, BACKWARDS.
     # ------------------------------------------------------------------
